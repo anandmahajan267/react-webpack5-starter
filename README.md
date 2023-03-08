@@ -1,4 +1,4 @@
-# react-webpack-project
+# react webpack starter
 This is React 18 starter project, configured with Webpack 5 and babel.
 
 ## Steps to setup on local machine
