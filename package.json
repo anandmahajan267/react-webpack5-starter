@@ -1,14 +1,14 @@
 {
-  "name": "react-webpack-project",
+  "name": "react-webpack5-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is React 18 starter project, configured with Webpack 5 and babel.",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode development",
     "start": "webpack serve --mode development"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anand Mahajan",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.18.10",
